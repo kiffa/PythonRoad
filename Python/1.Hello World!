@@ -1,0 +1,5 @@
+Python version: 3.6
+print ("Hello World")
+
+In Python 3.6, if we want to show something, we need the "print()" which is Python function.
+And we can also try other words.
