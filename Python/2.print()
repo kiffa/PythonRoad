@@ -1,0 +1,11 @@
+print ("Hello World")
+Hello World
+
+print(1+2*3)
+7
+
+print(1>2)
+false
+
+print(1<2)
+true
